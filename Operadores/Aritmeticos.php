@@ -16,5 +16,7 @@ echo 2**4;
 echo ("</br>");
 echo 65%2;
 
+//y esto sería todo por le momento
+
 
 ?>
